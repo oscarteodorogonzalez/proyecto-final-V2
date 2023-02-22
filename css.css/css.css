@@ -1,0 +1,42 @@
+
+body {
+    background-color: rgb(217, 244, 206);
+  }
+
+
+.title{
+    
+    color:rgb(73, 42, 165);
+    width: 50%;
+    margin-left: 450px;
+    }
+
+.titulos{
+    color: purple;
+    width: 40%;
+    margin-left: 1px;
+    
+   
+}
+
+.textos{  
+color: purple;
+    width: 40%;
+    margin-left: 1px;
+   
+}
+
+.body{
+    
+
+padding: 1px;
+width:1500px;
+height: 1500 px;
+text-align: justify;
+}
+
+#demo {
+    color: #062ffa;
+    
+    
+}
